@@ -1,5 +1,4 @@
 <template>
-  <!-- feture -->
   <div class="feature">
     <div class="title2">Services We Offer</div>
     <div class="subtitle">
@@ -100,8 +99,4 @@
       </div>
     </div>
   </div>
-  <!--//feture -->
 </template>
-<script setup lang="ts">
-import '@/assets/css/style.css'
-</script>

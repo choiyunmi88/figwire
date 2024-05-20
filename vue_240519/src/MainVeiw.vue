@@ -9,7 +9,6 @@ import Footer from './components/Footer.vue'
 <template>
   <Header />
   <Hero />
-  <img class="placeholder" src="./assets/images/placeholder.jpg" />    
   <Feature />
   <CTA />
   <Footer />

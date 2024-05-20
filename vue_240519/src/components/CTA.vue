@@ -1,5 +1,4 @@
 <template>
-  <!-- cta -->
   <div class="cta">
     <div class="content">
       <div class="title4">Expert Opinion 1 Click Away</div>
@@ -11,9 +10,5 @@
     <div class="btn-wrap">
       <div class="default large button c-white">Contact Us</div>
     </div>
-  </div>  
-  <!--//cta -->
+  </div>
 </template>
-<script setup lang="ts">
-import '@/assets/css/style.css'
-</script>

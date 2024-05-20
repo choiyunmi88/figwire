@@ -1,5 +1,4 @@
 <template>
-   <!-- header -->
    <header id="header" role="banner">
         <h1 class="logo">
           <div class="logo-img">
@@ -24,8 +23,4 @@
           <a href="#none" class="default medium button">Register Now</a>
         </div>
     </header>
-    <!--//header -->
 </template>
-<script setup lang="ts">
-import '@/assets/css/style.css'
-</script>

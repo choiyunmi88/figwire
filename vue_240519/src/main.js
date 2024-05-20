@@ -14,10 +14,10 @@
 import './assets/css/style.css'
 
 import { createApp } from 'vue'
-import App from './App.vue'
+import MainVeiw from './MainVeiw.vue'
 import router from './router'
 
-const app = createApp(App)
+const app = createApp(MainVeiw)
 
 app.use(router)
 
